@@ -1,6 +1,6 @@
 # 📚 Exercício Spring 2 – Modelo de Domínio e ORM
 
-Projeto desenvolvido como parte da formação **Desenvolvedor Moderno (Back end – Spring Boot)**, no capítulo **Modelo de domínio e ORM**.
+Projeto desenvolvido como parte da formação **Java Spring Professional**, no capítulo **Modelo de domínio e ORM**.
 
 O objetivo é implementar um **sistema de eventos acadêmicos** utilizando **Spring Boot**, **JPA/Hibernate** e **H2 Database**, com mapeamento de entidades e relacionamentos conforme o diagrama conceitual proposto.
 
