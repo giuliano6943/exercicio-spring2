@@ -100,3 +100,8 @@ O banco de dados é inicializado automaticamente via **`data.sql`** durante a in
 
 ```bash
 git clone https://github.com/giuliano6943/exercicio-spring2.git
+```
+---
+👨‍💻 Autor
+
+Projeto desenvolvido por Giuliano como parte da formação Java Spring Professional.
